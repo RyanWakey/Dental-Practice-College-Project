@@ -1,0 +1,9 @@
+100,Local Anesthetic,27.50,Gas or Syringe or ointment,Smoker,OverWeight
+101,Root Canal Therapy,62.10, loupes,CysticFibrosis,OverWeight
+102,Fillings,62.10, loupes,LiverDisease,OverWeight
+103,Crowns,269.30, loupes,Pregnant,OverWeight
+104,Bridges,347.50, loupes,Pregnant,OverWeight
+105,Nitrous Oxide,50,gas can,Emphysema,Asthma
+106,RadioGraphs,101,gas can,Emphysema,Asthma
+107,Extraction,120,stopcocks/extraction tubes,Smoker,Epilepsy
+108,Cleaning,44,Probes/FineScalers,Smoker,Epilepsy

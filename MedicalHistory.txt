@@ -1,0 +1,3 @@
+
+101,Rheumaticfever,Bronchitis,Haemophilia,Cancer,HayFever,Pregnant,Problembackrighttooth,LocalAnesthetic,101
+102,HeartMurmur,,Diabetes,Cancer,HayFever,Pregnant,Problemfrontteeth,LocalAnesthetic,102
